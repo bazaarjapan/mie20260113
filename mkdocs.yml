@@ -19,10 +19,6 @@ markdown_extensions:
 
 nav:
   - はじめに: index.md
-  - ガイド:
-      - 使い始める: guide/getting-started.md
-      - 画像の扱い: guide/images.md
-      - 公開（GitHub Pages）: guide/publishing.md
   - 資料:
       - 研修カリキュラム: training/index.md
       - 1. 導入・基盤（NotebookLM）: training/01-notebooklm.md
