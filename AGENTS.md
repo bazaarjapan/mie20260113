@@ -48,3 +48,4 @@ Quick checklist: headings ok / links ok / dates ok / copyable commands ok.
 
 ## Agent-Specific Instructions
 - 生成物は日本語を基本とし、外部仕様（ツール名・コマンド）は原語のまま正確に記載してください。
+- このサイトの文書は、全体的に柔らかめのトーンで統一してください。
