@@ -24,4 +24,11 @@ nav:
       - 画像の扱い: guide/images.md
       - 公開（GitHub Pages）: guide/publishing.md
   - 資料:
-      - 研修カリキュラム: training.md
+      - 研修カリキュラム: training/index.md
+      - 1. 導入・基盤（NotebookLM）: training/01-notebooklm.md
+      - 2. リスクと倫理: training/02-risk-ethics.md
+      - 3. 実践①（Gemsと最適化ツール）: training/03-gems-automation.md
+      - 4. 実践②（Suno AI）: training/04-suno-ai.md
+      - 5. 実践③（Nano Banana Pro）: training/05-nano-banana.md
+      - 6. 総括・Q&A: training/06-summary-qa.md
+      - 7. 発展（Google Antigravity）: training/07-metaphor.md
