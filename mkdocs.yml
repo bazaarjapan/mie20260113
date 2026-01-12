@@ -1,0 +1,27 @@
+site_name: Repository Manual
+site_description: Public manual for this repository
+site_url: https://example.github.io/mie20260113/
+
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+
+nav:
+  - はじめに: index.md
+  - ガイド:
+      - 使い始める: guide/getting-started.md
+      - 画像の扱い: guide/images.md
+      - 公開（GitHub Pages）: guide/publishing.md
+  - 資料:
+      - 研修カリキュラム: training.md
