@@ -1,6 +1,6 @@
-site_name: Repository Manual
-site_description: Public manual for this repository
-site_url: https://example.github.io/mie20260113/
+site_name: 三重県生成AI活用研修 マニュアル
+site_description: 公開マニュアル（GitHub Pages）
+site_url: https://bazaarjapan.github.io/mie20260113/
 
 theme:
   name: material
