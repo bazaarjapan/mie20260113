@@ -30,6 +30,8 @@
 この前提で、最適な進め方や構成を提案してもらえますか？
 ```
 
+参考リンク: [ChatGPTの公式プロンプト生成ツール](https://platform.openai.com/chat/edit?models=gpt-5.2&optimize=true)
+
 ## 具体例（そのまま使える形）
 ### 例1: 研修の構成案を相談する
 ```
